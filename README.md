@@ -3,7 +3,7 @@
 Este repositório contém atividades práticas para o aprendizado de consumo de APIs utilizando JavaScript (Fetch API).
 
 > [!NOTE]
-> Como exemplo de referência de um projeto que consome API, vocês podem olhar o repositório [Pokéfinder](https://github.com/italocarlo06/pokefinder).
+> Como exemplo de referência de um projeto que consome API, vocês podem olhar o repositório [Pokefinder](https://github.com/italocarlo06/pokefinder).
 
 ## 🚀 Atividades
 
@@ -24,10 +24,6 @@ Nesta atividade, você desenvolverá uma aplicação que permite buscar informa�
   - Nome do Estádio (`strStadium`)
   - Capacidade do Estádio (`intStadiumCapacity`)
   - Cidade (`strLocation`)
-
-> [!TIP]
-> **Diferencial de Customização:**
-> Você pode ir além e exibir informações extras como o ano de fundação (`intFormedYear`), o site oficial (`strWebsite`), ou até as redes sociais do time. Use sua criatividade no layout para organizar esses dados de forma elegante! Isso será levado em consideração na avaliação.
 
 ---
 
@@ -65,7 +61,11 @@ Nesta atividade, você criará um painel que mostra as condições climáticas a
 
 ---
 
-## � Entrega da Atividade
+> [!TIP]
+> **Diferencial de Customização (Para ambos os projetos):**
+> Você pode ir além do básico e exibir informações extras, como o ano de fundação e redes sociais (no caso de times) ou dados climáticos adicionais (no caso de clima). Use sua criatividade no layout para organizar esses dados de forma elegante! Isso será levado em consideração como um diferencial na avaliação.
+
+## 📤 Entrega da Atividade
 
 Para concluir a atividade, siga estes passos:
 
@@ -78,7 +78,7 @@ Para concluir a atividade, siga estes passos:
 
 ---
 
-## �🛠️ Como realizar as atividades
+## 🛠️ Como realizar as atividades
 
 1. Crie uma função `async` para realizar a busca.
 2. Utilize o comando `await fetch(url)` para buscar os dados.
